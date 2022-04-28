@@ -2,3 +2,4 @@ database.sqlite
 venv/
 __pycache__/
 .vscode
+todo.md
